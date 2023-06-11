@@ -19,4 +19,4 @@ Users should be able to:
 
 ![](./screenshot/screenshot1.jpg)
 
-### Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+### Live Site URL: [https://henrychang47.github.io/fm-newsletter-sign-up/](https://henrychang47.github.io/fm-newsletter-sign-up/)
